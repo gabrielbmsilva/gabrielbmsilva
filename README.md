@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Java and Angular
+- ⚡ Fun fact: I love Assembly
+
+
 
 <!--
 **gabrielbmsilva/gabrielbmsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
